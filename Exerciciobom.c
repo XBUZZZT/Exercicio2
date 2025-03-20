@@ -11,7 +11,8 @@ int main() {
     int pontost1, pontost2;
     float densidade1, densidade2;
     float pibpercapita1, pibpercapita2;
-
+    float eu1, eu2;
+    
     // CARTA 1
     printf("Carta 1: \n");
     printf("Digite seu estado: \n");
